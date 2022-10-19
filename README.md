@@ -1,4 +1,4 @@
-git clone https://github.com/LutT298/testing
+git clone https://github.com/LutT298/testing\n
 cd testing
 python3 dos.py
 
