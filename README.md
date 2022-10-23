@@ -2,7 +2,7 @@ git clone https://github.com/LutT298/testing
 
 cd testing
 
-python3 dos.py
+python3 break.py
 
 
 user:(bebas)
