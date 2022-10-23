@@ -4,7 +4,3 @@ cd testing
 
 python3 break.py
 
-
-user:(bebas)
-
-pw: rexteam
